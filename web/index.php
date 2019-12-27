@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-57286064-4"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-57286064-7"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
-    gtag('config', 'UA-57286064-4');
+    gtag('config', 'UA-57286064-7');
   </script>
 
   <script type="text/javascript" src="js/jquery-1.12.0.min.js"></script>
