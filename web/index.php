@@ -42,21 +42,13 @@
 <body>
 
 <!-- Fixed navbar -->
-<div class="navbar navbar-inverse navbar-fixed-top">
+<!-- <div class="navbar navbar-inverse navbar-fixed-top">
   <div id="nav" class="container">
     <div class="navbar-header">
-<!--
-      <button id="nav-icon" type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-      </button>
--->
       <a class="navbar-brand" href="http://engervall.com/"><i class="fa fa-home" aria-hidden="true"></i></a>
     </div>
   </div>
-</div>
+</div> -->
 
 <main>
   <canvas id="scene"></canvas>
